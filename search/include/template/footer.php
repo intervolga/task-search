@@ -6,5 +6,6 @@
 	</div><!--.container-->
 	<script src="/search/js/bootstrap.min.js"></script>
 	<script src="/search/js/jquery-3.3.1.min.js"></script>
+	<script src="/search/js/custom.js"></script>
 </body>
 </html>
