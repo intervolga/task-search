@@ -1,0 +1,7 @@
+html, body {
+    font-family: monospace;
+}
+h1 {
+    font-weight: bold;
+    margin-bottom: 40px;
+}
